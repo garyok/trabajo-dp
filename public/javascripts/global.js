@@ -7,7 +7,6 @@ $(document).ready(function() {
   // Populate the user table on initial page load
   populateTable();
 
-
 });
 
 // Functions =============================================================
@@ -37,4 +36,5 @@ function populateTable() {
     $('#userList table tbody').html(tableContent);
   });
 };
+
 
