@@ -42,7 +42,6 @@ function populateTable() {
   });
 };
 
-<<<<<<< HEAD
 
 // Add User
 function addUser(event) {
@@ -99,7 +98,6 @@ function addUser(event) {
     return false;
   }
 };
-=======
 // Delete User
 function deleteUser(event) {
 
@@ -138,4 +136,3 @@ function deleteUser(event) {
   }
 };
 
->>>>>>> master
